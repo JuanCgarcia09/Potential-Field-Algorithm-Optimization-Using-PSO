@@ -36,6 +36,6 @@ optimization algorithm called PSO.
 
 ### Result Time vs Epoch
 
-![](Tiempovsepocas.png)
+![](Images/Tiempovsepocas.png)
 
 
